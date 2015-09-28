@@ -12,6 +12,8 @@
 		B1ED662F1BB6767F003D0022 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B1ED662E1BB6767F003D0022 /* Images.xcassets */; };
 		B1ED66321BB6767F003D0022 /* MainMenu.xib in Resources */ = {isa = PBXBuildFile; fileRef = B1ED66301BB6767F003D0022 /* MainMenu.xib */; };
 		B1ED663E1BB6767F003D0022 /* ScarryBugsCocoaTests.m in Sources */ = {isa = PBXBuildFile; fileRef = B1ED663D1BB6767F003D0022 /* ScarryBugsCocoaTests.m */; };
+		B1ED664F1BB67D0B003D0022 /* MasterViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = B1ED664D1BB67D0B003D0022 /* MasterViewController.m */; };
+		B1ED66501BB67D0B003D0022 /* MasterViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = B1ED664E1BB67D0B003D0022 /* MasterViewController.xib */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -35,6 +37,9 @@
 		B1ED66371BB6767F003D0022 /* ScarryBugsCocoaTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ScarryBugsCocoaTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		B1ED663C1BB6767F003D0022 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		B1ED663D1BB6767F003D0022 /* ScarryBugsCocoaTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ScarryBugsCocoaTests.m; sourceTree = "<group>"; };
+		B1ED664C1BB67D0B003D0022 /* MasterViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MasterViewController.h; sourceTree = "<group>"; };
+		B1ED664D1BB67D0B003D0022 /* MasterViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MasterViewController.m; sourceTree = "<group>"; };
+		B1ED664E1BB67D0B003D0022 /* MasterViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = MasterViewController.xib; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -78,6 +83,9 @@
 			children = (
 				B1ED66291BB6767F003D0022 /* AppDelegate.h */,
 				B1ED662A1BB6767F003D0022 /* AppDelegate.m */,
+				B1ED664C1BB67D0B003D0022 /* MasterViewController.h */,
+				B1ED664D1BB67D0B003D0022 /* MasterViewController.m */,
+				B1ED664E1BB67D0B003D0022 /* MasterViewController.xib */,
 				B1ED662E1BB6767F003D0022 /* Images.xcassets */,
 				B1ED66301BB6767F003D0022 /* MainMenu.xib */,
 				B1ED66271BB6767F003D0022 /* Supporting Files */,
@@ -193,6 +201,7 @@
 			files = (
 				B1ED662F1BB6767F003D0022 /* Images.xcassets in Resources */,
 				B1ED66321BB6767F003D0022 /* MainMenu.xib in Resources */,
+				B1ED66501BB67D0B003D0022 /* MasterViewController.xib in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -211,6 +220,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				B1ED662D1BB6767F003D0022 /* main.m in Sources */,
+				B1ED664F1BB67D0B003D0022 /* MasterViewController.m in Sources */,
 				B1ED662B1BB6767F003D0022 /* AppDelegate.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
