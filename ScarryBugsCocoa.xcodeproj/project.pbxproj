@@ -7,6 +7,17 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		B1796D8C1BB9392E004C22E4 /* ScarryBugData.m in Sources */ = {isa = PBXBuildFile; fileRef = B1796D8B1BB9392E004C22E4 /* ScarryBugData.m */; };
+		B1796D8F1BB93ED8004C22E4 /* ScarryBugDoc.m in Sources */ = {isa = PBXBuildFile; fileRef = B1796D8E1BB93ED8004C22E4 /* ScarryBugDoc.m */; };
+		B1796D9A1BB95A67004C22E4 /* attribution.txt in Resources */ = {isa = PBXBuildFile; fileRef = B1796D911BB95A67004C22E4 /* attribution.txt */; };
+		B1796D9B1BB95A67004C22E4 /* centipede.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B1796D921BB95A67004C22E4 /* centipede.jpg */; };
+		B1796D9C1BB95A67004C22E4 /* centipedeThumb.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B1796D931BB95A67004C22E4 /* centipedeThumb.jpg */; };
+		B1796D9D1BB95A67004C22E4 /* ladybug.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B1796D941BB95A67004C22E4 /* ladybug.jpg */; };
+		B1796D9E1BB95A67004C22E4 /* ladybugThumb.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B1796D951BB95A67004C22E4 /* ladybugThumb.jpg */; };
+		B1796D9F1BB95A67004C22E4 /* potatoBug.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B1796D961BB95A67004C22E4 /* potatoBug.jpg */; };
+		B1796DA01BB95A67004C22E4 /* potatoBugThumb.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B1796D971BB95A67004C22E4 /* potatoBugThumb.jpg */; };
+		B1796DA11BB95A67004C22E4 /* wolfSpider.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B1796D981BB95A67004C22E4 /* wolfSpider.jpg */; };
+		B1796DA21BB95A67004C22E4 /* wolfSpiderThumb.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B1796D991BB95A67004C22E4 /* wolfSpiderThumb.jpg */; };
 		B1ED662B1BB6767F003D0022 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = B1ED662A1BB6767F003D0022 /* AppDelegate.m */; };
 		B1ED662D1BB6767F003D0022 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = B1ED662C1BB6767F003D0022 /* main.m */; };
 		B1ED662F1BB6767F003D0022 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B1ED662E1BB6767F003D0022 /* Images.xcassets */; };
@@ -27,6 +38,19 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		B1796D8A1BB9392E004C22E4 /* ScarryBugData.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ScarryBugData.h; sourceTree = "<group>"; };
+		B1796D8B1BB9392E004C22E4 /* ScarryBugData.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ScarryBugData.m; sourceTree = "<group>"; };
+		B1796D8D1BB93ED8004C22E4 /* ScarryBugDoc.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ScarryBugDoc.h; sourceTree = "<group>"; };
+		B1796D8E1BB93ED8004C22E4 /* ScarryBugDoc.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ScarryBugDoc.m; sourceTree = "<group>"; };
+		B1796D911BB95A67004C22E4 /* attribution.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = attribution.txt; path = ScaryBugs/attribution.txt; sourceTree = SOURCE_ROOT; };
+		B1796D921BB95A67004C22E4 /* centipede.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = centipede.jpg; path = ScaryBugs/centipede.jpg; sourceTree = SOURCE_ROOT; };
+		B1796D931BB95A67004C22E4 /* centipedeThumb.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = centipedeThumb.jpg; path = ScaryBugs/centipedeThumb.jpg; sourceTree = SOURCE_ROOT; };
+		B1796D941BB95A67004C22E4 /* ladybug.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = ladybug.jpg; path = ScaryBugs/ladybug.jpg; sourceTree = SOURCE_ROOT; };
+		B1796D951BB95A67004C22E4 /* ladybugThumb.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = ladybugThumb.jpg; path = ScaryBugs/ladybugThumb.jpg; sourceTree = SOURCE_ROOT; };
+		B1796D961BB95A67004C22E4 /* potatoBug.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = potatoBug.jpg; path = ScaryBugs/potatoBug.jpg; sourceTree = SOURCE_ROOT; };
+		B1796D971BB95A67004C22E4 /* potatoBugThumb.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = potatoBugThumb.jpg; path = ScaryBugs/potatoBugThumb.jpg; sourceTree = SOURCE_ROOT; };
+		B1796D981BB95A67004C22E4 /* wolfSpider.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = wolfSpider.jpg; path = ScaryBugs/wolfSpider.jpg; sourceTree = SOURCE_ROOT; };
+		B1796D991BB95A67004C22E4 /* wolfSpiderThumb.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = wolfSpiderThumb.jpg; path = ScaryBugs/wolfSpiderThumb.jpg; sourceTree = SOURCE_ROOT; };
 		B1ED66241BB6767F003D0022 /* ScarryBugsCocoa.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ScarryBugsCocoa.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		B1ED66281BB6767F003D0022 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		B1ED66291BB6767F003D0022 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -60,6 +84,46 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		B1796D881BB9376C004C22E4 /* GUI */ = {
+			isa = PBXGroup;
+			children = (
+				B1ED66291BB6767F003D0022 /* AppDelegate.h */,
+				B1ED662A1BB6767F003D0022 /* AppDelegate.m */,
+				B1ED664C1BB67D0B003D0022 /* MasterViewController.h */,
+				B1ED664D1BB67D0B003D0022 /* MasterViewController.m */,
+				B1ED664E1BB67D0B003D0022 /* MasterViewController.xib */,
+				B1ED66301BB6767F003D0022 /* MainMenu.xib */,
+			);
+			name = GUI;
+			sourceTree = "<group>";
+		};
+		B1796D891BB93836004C22E4 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				B1796D8A1BB9392E004C22E4 /* ScarryBugData.h */,
+				B1796D8B1BB9392E004C22E4 /* ScarryBugData.m */,
+				B1796D8D1BB93ED8004C22E4 /* ScarryBugDoc.h */,
+				B1796D8E1BB93ED8004C22E4 /* ScarryBugDoc.m */,
+			);
+			name = Model;
+			sourceTree = "<group>";
+		};
+		B1796D901BB959AE004C22E4 /* ScarryBugsImages */ = {
+			isa = PBXGroup;
+			children = (
+				B1796D911BB95A67004C22E4 /* attribution.txt */,
+				B1796D921BB95A67004C22E4 /* centipede.jpg */,
+				B1796D931BB95A67004C22E4 /* centipedeThumb.jpg */,
+				B1796D941BB95A67004C22E4 /* ladybug.jpg */,
+				B1796D951BB95A67004C22E4 /* ladybugThumb.jpg */,
+				B1796D961BB95A67004C22E4 /* potatoBug.jpg */,
+				B1796D971BB95A67004C22E4 /* potatoBugThumb.jpg */,
+				B1796D981BB95A67004C22E4 /* wolfSpider.jpg */,
+				B1796D991BB95A67004C22E4 /* wolfSpiderThumb.jpg */,
+			);
+			name = ScarryBugsImages;
+			sourceTree = "<group>";
+		};
 		B1ED661B1BB6767F003D0022 = {
 			isa = PBXGroup;
 			children = (
@@ -81,13 +145,10 @@
 		B1ED66261BB6767F003D0022 /* ScarryBugsCocoa */ = {
 			isa = PBXGroup;
 			children = (
-				B1ED66291BB6767F003D0022 /* AppDelegate.h */,
-				B1ED662A1BB6767F003D0022 /* AppDelegate.m */,
-				B1ED664C1BB67D0B003D0022 /* MasterViewController.h */,
-				B1ED664D1BB67D0B003D0022 /* MasterViewController.m */,
-				B1ED664E1BB67D0B003D0022 /* MasterViewController.xib */,
+				B1796D901BB959AE004C22E4 /* ScarryBugsImages */,
+				B1796D891BB93836004C22E4 /* Model */,
+				B1796D881BB9376C004C22E4 /* GUI */,
 				B1ED662E1BB6767F003D0022 /* Images.xcassets */,
-				B1ED66301BB6767F003D0022 /* MainMenu.xib */,
 				B1ED66271BB6767F003D0022 /* Supporting Files */,
 			);
 			path = ScarryBugsCocoa;
@@ -200,8 +261,17 @@
 			buildActionMask = 2147483647;
 			files = (
 				B1ED662F1BB6767F003D0022 /* Images.xcassets in Resources */,
+				B1796DA21BB95A67004C22E4 /* wolfSpiderThumb.jpg in Resources */,
+				B1796D9D1BB95A67004C22E4 /* ladybug.jpg in Resources */,
 				B1ED66321BB6767F003D0022 /* MainMenu.xib in Resources */,
+				B1796D9B1BB95A67004C22E4 /* centipede.jpg in Resources */,
+				B1796D9A1BB95A67004C22E4 /* attribution.txt in Resources */,
+				B1796DA11BB95A67004C22E4 /* wolfSpider.jpg in Resources */,
+				B1796D9C1BB95A67004C22E4 /* centipedeThumb.jpg in Resources */,
 				B1ED66501BB67D0B003D0022 /* MasterViewController.xib in Resources */,
+				B1796D9E1BB95A67004C22E4 /* ladybugThumb.jpg in Resources */,
+				B1796DA01BB95A67004C22E4 /* potatoBugThumb.jpg in Resources */,
+				B1796D9F1BB95A67004C22E4 /* potatoBug.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -221,7 +291,9 @@
 			files = (
 				B1ED662D1BB6767F003D0022 /* main.m in Sources */,
 				B1ED664F1BB67D0B003D0022 /* MasterViewController.m in Sources */,
+				B1796D8C1BB9392E004C22E4 /* ScarryBugData.m in Sources */,
 				B1ED662B1BB6767F003D0022 /* AppDelegate.m in Sources */,
+				B1796D8F1BB93ED8004C22E4 /* ScarryBugDoc.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -411,6 +483,7 @@
 				B1ED66431BB6767F003D0022 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		B1ED66441BB6767F003D0022 /* Build configuration list for PBXNativeTarget "ScarryBugsCocoaTests" */ = {
 			isa = XCConfigurationList;
@@ -419,6 +492,7 @@
 				B1ED66461BB6767F003D0022 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

@@ -8,6 +8,10 @@
 
 #import <Cocoa/Cocoa.h>
 
+
+
 @interface MasterViewController : NSViewController
+
+@property (strong) NSMutableArray *bugArray;
 
 @end
